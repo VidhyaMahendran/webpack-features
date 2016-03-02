@@ -1,0 +1,28 @@
+{
+  "name": "webpack-features",
+  "version": "1.0.0",
+  "description": "A Simple Node App to demonstrate webpack features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VidhyaMahendran/webpack-features.git"
+  },
+  "keywords": [
+    "webpack",
+    "node",
+    "js",
+    "transpiling"
+  ],
+  "author": "Vidhya Vijai Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VidhyaMahendran/webpack-features/issues"
+  },
+  "homepage": "https://github.com/VidhyaMahendran/webpack-features#readme",
+  "dependencies": {
+    "webpack": "^1.12.14"
+  }
+}
