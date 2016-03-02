@@ -1,8 +1,8 @@
 module.exports = {
 	devtool: "inline-sourcemap",
-	entry: "./modules/main.js",
+	entry: "./js/main.js",
 	output: {
 		path: __dirname,
-		filename: "build.js"
+		filename: "./js/build.js"
 	}
 };
