@@ -17,6 +17,9 @@ Node App to demonstrate Webpack features
 
 `webpack --progress --colors --watch`
 
+## Webpack command to run with Minification
+`webpack-dev-server -p`
+
 ## Webpack Features
 * Module loading
 * Source Mapping
